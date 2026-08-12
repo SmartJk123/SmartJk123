@@ -1,16 +1,242 @@
-## Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Smart&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Products&descAlignY=58&descSize=20" alt="Smart, Full-Stack Software Engineer building reliable digital products" />
+</p>
 
-<!--
-**SmartJk123/SmartJk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Dynamic Capabilities -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20reliable%20products%20from%20idea%20to%20production;Crafting%20clean%20APIs%2C%20interfaces%2C%20and%20workflows;Automating%20repetitive%20tasks%20and%20integrations;Learning%20and%20shipping%20something%20every%20day&center=true&width=600&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Software engineering capabilities" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Problem-first engineering. Reliable systems. Measurable impact.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Socials -->
+<p align="center">
+  <a href="https://github.com/SmartJk123" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartJk123 on GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Smart on LinkedIn" />
+  </a>
+  <a href="https://your-portfolio.vercel.app/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View the portfolio" />
+  </a>
+  <a href="mailto:you@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+I'm a full-stack software engineer who enjoys turning ideas into reliable, useful software. I care about clean architecture, clear communication, and shipping products that solve real problems.
+
+<!-- TODO: personal details below are placeholders, replace with your real story -->
+My workflow centers on understanding the problem first, then building the simplest system that delivers value. I work across frontend and backend, and I am always learning better ways to design, build, and maintain software.
+
+I take ownership of what I build, from the first commit to production. I review thoughtfully, communicate tradeoffs clearly, and keep learning in public.
+
+I'm interested in teams and projects that value thoughtful engineering, good collaboration, and long-term quality over rushed solutions.
+
+---
+
+<h2 align="center">What I Do</h2>
+
+I design and build software that turns ideas, business processes, and operational challenges into reliable digital systems.
+
+| Area | What I Build | Business Impact |
+|:-----|:-------------|:----------------|
+| **Web & Mobile Applications** | Customer-facing web apps, dashboards, and mobile-first platforms | Turns ideas into accessible, production-ready products |
+| **Backend & APIs** | REST APIs, integrations, automation, and data workflows | Connects systems and removes repetitive manual work |
+| **Automation & Integrations** | Reporting, notifications, third-party API integrations, and data sync | Reduces errors, saves time, and keeps teams focused |
+| **Custom Software** | Internal tools and tailored solutions | Replaces manual processes with dependable systems |
+
+> *I focus on understanding the real problem first, then building the simplest reliable system that delivers measurable value.*
+
+---
+
+<h2 align="center">Now Building</h2>
+
+### Project Name - Working Title
+
+Short description of the product or platform you are currently building, who it helps, and why it matters.
+
+**Current focus:** Focus area one · Focus area two · Focus area three
+
+---
+
+<h2 align="center">Open To</h2>
+
+- **Full-time and graduate engineering opportunities** where I can contribute across frontend, backend, full-stack, and product engineering.
+- **Freelance projects** helping businesses turn operational challenges and product ideas into reliable digital systems.
+- **Early-stage teams and side projects** where I can add value across the stack.
+- **Remote, hybrid, and onsite opportunities** within Kenya and internationally.
+
+> *I bring a problem-first mindset, adapt quickly to unfamiliar domains, and take ownership from system design through production delivery.*
+
+---
+
+<h2 align="center">Design Patterns & Engineering Principles</h2>
+
+| Principle | How I Apply It |
+|:----------|:---------------|
+| **Understand before building** | I define the real problem, constraints, and desired outcomes before choosing a solution. |
+| **Keep it simple** | I prefer clear architectures and focused abstractions over unnecessary complexity. |
+| **Build for reliability** | I treat correctness, security, and failure handling as core product requirements. |
+| **Write code for humans** | I favor readable code, good naming, and documentation that helps the next person. |
+| **Ship and iterate** | I deliver working software early and improve it with real feedback and usage. |
+| **Learn in public** | I share what I learn, ask good questions, and grow through feedback. |
+
+> *The goal is not merely to ship software, but to build the right system and keep it valuable over time.*
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<!-- Sample stack only: replace with the tools you actually use -->
+<p align="center">
+  <a href="https://skillicons.dev" title="View Skill Icons">
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nodejs,express,python,postgres,mysql,mongodb,docker,git,github,figma,html,css&perline=8" alt="Technology stack" />
+  </a>
+</p>
+
+### Stack Breakdown
+- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+- **Backend & APIs:** Node.js, Express, Python, REST APIs
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **DevOps & Tools:** Git, GitHub, Docker, Figma
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<!-- Projects are placeholders: replace with your real projects, links, and metrics -->
+
+### Tunebox Photobooth System - Photo Booth Business Platform
+
+A complete photo booth business platform for Tunebox Photobooth, combining a client-facing website with an admin dashboard for booking management, portfolio content, and customer communication.
+
+- Built a custom Django user system with email-or-username authentication and role-based accounts (regular, subscriber, moderator) that keep photo galleries scoped to each user.
+- Automated the booking workflow end-to-end: clients request appointments, admins accept them from the dashboard, and clients receive automatic HTML email confirmations.
+- Built the portfolio around multi-image uploads, category organization, ownership-checked edits and deletes, and S3-backed media storage via django-storages and Pillow.
+- Shipped service pages for printing, branding, and photo templates alongside a live contact form wired to SMTP email.
+
+**Built with:** Django · Python · Bootstrap · SQLite · Pillow · django-storages (S3) · SMTP
+
+<p align="right">
+  <a href="https://tune-box.co.ke/" title="View Tunebox Photobooth live demo">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Tunebox Photobooth live demo" />
+  </a>
+  <a href="https://github.com/SmartJk123/TB-Photobooth" title="View Tunebox Photobooth repository">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Tunebox Photobooth repository" />
+  </a>
+</p>
+
+### Project Two - What It Does
+
+Short description of the project, the problem it solves, and who it helps.
+
+- Bullet point on a key feature or technical decision.
+- Bullet point on a measurable result, such as performance, tests, or users.
+- Bullet point on what you learned or did differently.
+
+**Built with:** Next.js · TypeScript · MongoDB · Redis
+
+<p align="right">
+  <a href="#" title="View Project Two">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project Two live demo" />
+  </a>
+</p>
+
+### Project Three - What It Does
+
+Short description of the project, the problem it solves, and who it helps.
+
+- Bullet point on a key feature or technical decision.
+- Bullet point on a measurable result, such as performance, tests, or users.
+- Bullet point on what you learned or did differently.
+
+**Built with:** Python · FastAPI · React · PostgreSQL
+
+<p align="right">
+  <a href="#" title="View Project Three">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project Three live demo" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
+        <img src="https://github-readme-stats.vercel.app/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB&text_color=94a3b8" alt="SmartJk123 GitHub statistics" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
+        <img src="https://streak-stats.demolab.com/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=ffffff&dates=94a3b8" alt="SmartJk123 GitHub contribution streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartJk123&bg_color=0f172a&color=94a3b8&title_color=2563EB&line=2563EB&point=ffffff&area=true&area_color=2563EB&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="SmartJk123 recent GitHub contribution activity" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">Credibility</h2>
+
+| Area | Evidence |
+|:-----|:---------|
+| **Professional Experience** | Placeholder: describe the client work or roles you have delivered. |
+| **Technical Validation** | Placeholder: mention testing coverage, load test results, or shipped products. |
+| **Security & Reliability** | Placeholder: list auth, validation, rate limiting, or reliability patterns you use. |
+| **Education** | Placeholder: degree, school, and year. |
+| **Certifications** | Placeholder: list certifications and course completions. |
+
+---
+
+<h2 align="center">Beyond Code</h2>
+
+- I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
+- I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
+- I care about building tools that help people and businesses operate more effectively.
+- Outside engineering, I enjoy sports, music, nature, films, and series.
+
+---
+
+<h2 align="center">Let's Build Something</h2>
+
+<p align="center">
+  <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SmartJk123" title="Connect on GitHub">
+    <img src="https://img.shields.io/badge/Connect_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect with SmartJk123 on GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Smart on LinkedIn" />
+  </a>
+  <a href="mailto:you@example.com" title="Start a conversation by email">
+    <img src="https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SmartJk123&color=2563EB&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer&reversal=true" alt="" />
+</p>
