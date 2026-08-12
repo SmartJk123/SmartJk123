@@ -117,17 +117,26 @@ Short description of the product or platform you are currently building, who it 
 
 ### Tunebox Photobooth System - Photo Booth Business Platform
 
-A complete photo booth business platform for Tunebox Photobooth, combining a client-facing website with an admin dashboard for booking management, portfolio content, and customer communication.
-
-- Built a custom Django user system with email-or-username authentication and role-based accounts (regular, subscriber, moderator) that keep photo galleries scoped to each user.
-- Automated the booking workflow end-to-end: clients request appointments, admins accept them from the dashboard, and clients receive automatic HTML email confirmations.
-- Built the portfolio around multi-image uploads, category organization, ownership-checked edits and deletes, and S3-backed media storage via django-storages and Pillow.
-- Shipped service pages for printing, branding, and photo templates alongside a live contact form wired to SMTP email.
-
-**Built with:** Django · Python · Bootstrap · SQLite · Pillow · django-storages (S3) · SMTP
+<table>
+  <tr>
+    <td width="70%">
+<p>A complete photo booth business platform for Tunebox Photobooth, combining a client-facing website with an admin dashboard for booking management, portfolio content, and customer communication.</p>
+<ul>
+  <li>Built a custom Django user system with email-or-username authentication and role-based accounts (regular, subscriber, moderator) that keep photo galleries scoped to each user.</li>
+  <li>Automated the booking workflow end-to-end: clients request appointments, admins accept them from the dashboard, and clients receive automatic HTML email confirmations.</li>
+  <li>Built the portfolio around multi-image uploads, category organization, ownership-checked edits and deletes, and S3-backed media storage via django-storages and Pillow.</li>
+  <li>Shipped service pages for printing, branding, and photo templates alongside a live contact form wired to SMTP email.</li>
+</ul>
+<p><strong>Built with:</strong> Django · Python · Bootstrap · SQLite · Pillow · django-storages (S3) · SMTP</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="assets/tunebox.png" alt="Tunebox Photobooth platform preview" width="280" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
+    </td>
+  </tr>
+</table>
 
 <p align="right">
-  <a href="https://tune-box.co.ke/" title="View Tunebox Photobooth live demo">
+  <a href="https://tunebox-photobooth.com" title="View Tunebox Photobooth live demo">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Tunebox Photobooth live demo" />
   </a>
   <a href="https://github.com/SmartJk123/TB-Photobooth" title="View Tunebox Photobooth repository">
