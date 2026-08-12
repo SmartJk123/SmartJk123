@@ -146,22 +146,17 @@ Short description of the product or platform you are currently building, who it 
 
 ### Smart Residential Management System - Residential Property Operations Platform
 
-<table>
-  <tr>
-    <td width="70%">
-<p>A production residential management system for Global Smartspaces Residentials that brings property operations, tenant management, financials, and staff workflows into one role-based platform.</p>
-<ul>
-  <li>Built role-based portals for tenants, staff, and accountants with property, unit, and lease management, maintenance requests, visitor management, applications and waitlist, and a support desk that keeps residents and staff on one system.</li>
-  <li>Automated the money side end-to-end: invoicing, payment tracking, arrears, deposits, chart of accounts, journal entries, and financial reports, with Stripe online payments and an NCBA bank webhook that captures verified events into a review queue before any accounting record is posted.</li>
-  <li>Added operational controls including an audit trail, bulk import, user and profile security, team chat, broadcast and comms hub, tasks and checklists, plus a documented backup and recovery runbook.</li>
-</ul>
-<p><strong>Built with:</strong> React · Vite · Tailwind CSS · Supabase (PostgreSQL, Auth, Storage, Edge Functions) · Stripe · React Query</p>
-    </td>
-    <td width="30%" align="center">
-      <img src="assets/smart%20residential.png" alt="Smart Residential Management System preview" width="280" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/smart%20residential.png" alt="Smart Residential Management System preview" width="280" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
+</p>
+
+A production residential management system for Global Smartspaces Residentials that brings property operations, tenant management, financials, and staff workflows into one role-based platform.
+
+- Built role-based portals for tenants, staff, and accountants with property, unit, and lease management, maintenance requests, visitor management, applications and waitlist, and a support desk that keeps residents and staff on one system.
+- Automated the money side end-to-end: invoicing, payment tracking, arrears, deposits, chart of accounts, journal entries, and financial reports, with Stripe online payments and an NCBA bank webhook that captures verified events into a review queue before any accounting record is posted.
+- Added operational controls including an audit trail, bulk import, user and profile security, team chat, broadcast and comms hub, tasks and checklists, plus a documented backup and recovery runbook.
+
+**Built with:** React · Vite · Tailwind CSS · Supabase (PostgreSQL, Auth, Storage, Edge Functions) · Stripe · React Query
 
 <p align="right">
   <a href="https://globalsmartspacesresidential.base44.app" title="View Smart Residential Management System live demo">
