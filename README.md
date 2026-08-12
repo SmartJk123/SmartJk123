@@ -1,15 +1,15 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Smart&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Products&descAlignY=58&descSize=20" alt="Smart, Full-Stack Software Engineer building reliable digital products" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
 </p>
 
 <!-- Dynamic Capabilities -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20reliable%20products%20from%20idea%20to%20production;Crafting%20clean%20APIs%2C%20interfaces%2C%20and%20workflows;Automating%20repetitive%20tasks%20and%20integrations;Learning%20and%20shipping%20something%20every%20day&center=true&width=600&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Software engineering capabilities" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20engineer%20with%202%20years%20of%20hands-on%20experience;React%2C%20Vue%2C%20Django%2C%20Node.js%2C%20PostgreSQL%2C%20Supabase;Reusable%20components%2C%20clean%20code%2C%20high%20performance;From%20strict%20UI%20mockups%20to%20production-scale%20systems&center=true&width=600&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Joy Kamau software engineering capabilities" />
 </p>
 
 <p align="center">
-  <em>Problem-first engineering. Reliable systems. Measurable impact.</em>
+  <em>Detail-driven engineering. Clean code. Reliable, scalable products.</em>
 </p>
 
 <!-- Socials -->
@@ -17,13 +17,13 @@
   <a href="https://github.com/SmartJk123" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartJk123 on GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Smart on LinkedIn" />
+  <a href="https://ke.linkedin.com/in/joy-kamau-945725221" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Joy on LinkedIn" />
   </a>
-  <a href="https://your-portfolio.vercel.app/" title="Portfolio">
+  <a href="https://joy.globalsmartspaces.com" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View the portfolio" />
   </a>
-  <a href="mailto:you@example.com" title="Email">
+  <a href="mailto:joykamau123@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
@@ -225,10 +225,10 @@ Short description of the project, the problem it solves, and who it helps.
   <a href="https://github.com/SmartJk123" title="Connect on GitHub">
     <img src="https://img.shields.io/badge/Connect_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect with SmartJk123 on GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Smart on LinkedIn" />
+  <a href="https://ke.linkedin.com/in/joy-kamau-945725221" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Joy on LinkedIn" />
   </a>
-  <a href="mailto:you@example.com" title="Start a conversation by email">
+  <a href="mailto:joykamau123@gmail.com" title="Start a conversation by email">
     <img src="https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" />
   </a>
 </p>
