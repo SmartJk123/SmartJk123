@@ -246,5 +246,5 @@ Short description of the project, the problem it solves, and who it helps.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:4857E3,100:4169E1&height=110&section=footer&reversal=true" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:4857E3,100:4169E1&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
 </p>
