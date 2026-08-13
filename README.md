@@ -1,15 +1,15 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:4857E3,100:4169E1&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
 </p>
 
 <!-- Dynamic Capabilities -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20engineer%20with%202%20years%20of%20hands-on%20experience;React%2C%20Vue%2C%20Django%2C%20Node.js%2C%20PostgreSQL%2C%20Supabase;Reusable%20components%2C%20clean%20code%2C%20high%20performance;From%20strict%20UI%20mockups%20to%20production-scale%20systems&center=true&width=600&height=45&color=60A5FA&font=Inter&size=20&pause=1400" alt="Joy Kamau software engineering capabilities" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer%20with%20experience;React%2C%20Vue%2C%20Django%2C%20Node.js%2C%20PostgreSQL%2C%20Supabase;Reusable%20components%2C%20clean%20code%2C%20high%20performance;From%20strict%20UI%20mockups%20to%20production-scale%20systems&center=true&width=600&height=45&color=FFD700&font=Inter&size=20&pause=1400" alt="Joy Kamau software engineering capabilities" />
 </p>
 
 <p align="center">
-  <em>Detail driven engineering. Clean code. Reliable, scalable products.</em>
+  <em>Detail driven engineering. Clean code. Reliable, scalable services.</em>
 </p>
 
 <!-- Socials -->
@@ -117,9 +117,10 @@ Short description of the product or platform you are currently building, who it 
 
 ### Tunebox Photobooth System - Photo Booth Business Platform
 
-<table>
-  <tr>
-    <td width="70%">
+<p align="center">
+  <img src="assets/tunebox.png" alt="Tunebox Photobooth platform preview" width="100%" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
+</p>
+
 <p>A complete photo booth business platform for Tunebox Photobooth, combining a client-facing website with an admin dashboard for booking management, portfolio content, and customer communication.</p>
 <ul>
   <li>Built a custom Django user system with email-or-username authentication and role-based accounts (regular, subscriber, moderator) that keep photo galleries scoped to each user.</li>
@@ -128,12 +129,6 @@ Short description of the product or platform you are currently building, who it 
   <li>Shipped service pages for printing, branding, and photo templates alongside a live contact form wired to SMTP email.</li>
 </ul>
 <p><strong>Built with:</strong> Django · Python · Bootstrap · SQLite · Pillow · django-storages (S3) · SMTP</p>
-    </td>
-    <td width="30%" align="center">
-      <img src="assets/tunebox.png" alt="Tunebox Photobooth platform preview" width="280" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
-    </td>
-  </tr>
-</table>
 
 <p align="right">
   <a href="https://tunebox-photobooth.com" title="View Tunebox Photobooth live demo">
@@ -251,5 +246,5 @@ Short description of the project, the problem it solves, and who it helps.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer&reversal=true" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:4857E3,100:4169E1&height=110&section=footer&reversal=true" alt="" />
 </p>
