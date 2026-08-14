@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:4857E3,100:4169E1&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
 </p>
 
 <!-- Dynamic Capabilities -->
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Joy on LinkedIn" />
   </a>
   <a href="https://joy.globalsmartspaces.com" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View the portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="View the portfolio" />
   </a>
   <a href="mailto:joykamau123@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
@@ -118,7 +118,7 @@ Short description of the product or platform you are currently building, who it 
 ### Tunebox Photobooth System - Photo Booth Business Platform
 
 <p align="center">
-  <img src="assets/tunebox.png" alt="Tunebox Photobooth platform preview" width="100%" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
+  <img src="assets/tunebox.png" alt="Tunebox Photobooth platform preview" width="100%" style="border: 2px dashed #818CF8; outline: 2px solid #312E81; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
 </p>
 
 <p>A complete photo booth business platform for Tunebox Photobooth, combining a client-facing website with an admin dashboard for booking management, portfolio content, and customer communication.</p>
@@ -132,7 +132,7 @@ Short description of the product or platform you are currently building, who it 
 
 <p align="right">
   <a href="https://tunebox-photobooth.com" title="View Tunebox Photobooth live demo">
-    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Tunebox Photobooth live demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="View Tunebox Photobooth live demo" />
   </a>
   <a href="https://github.com/SmartJk123/TB-Photobooth" title="View Tunebox Photobooth repository">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Tunebox Photobooth repository" />
@@ -142,7 +142,7 @@ Short description of the product or platform you are currently building, who it 
 ### Smart Residential Management System - Residential Property Operations Platform
 
 <p align="center">
-  <img src="assets/smart%20residential.png" alt="Smart Residential Management System preview" width="280" style="border: 2px dashed #60A5FA; outline: 2px solid #1E3A8A; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
+  <img src="assets/smart%20residential.png" alt="Smart Residential Management System preview" width="100%" style="border: 2px dashed #818CF8; outline: 2px solid #312E81; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
 </p>
 
 A production residential management system for Global Smartspaces Residentials that brings property operations, tenant management, financials, and staff workflows into one role-based platform.
@@ -155,7 +155,7 @@ A production residential management system for Global Smartspaces Residentials t
 
 <p align="right">
   <a href="https://globalsmartspacesresidential.base44.app" title="View Smart Residential Management System live demo">
-    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Smart Residential Management System live demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="View Smart Residential Management System live demo" />
   </a>
 </p>
 
@@ -171,7 +171,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 <p align="right">
   <a href="#" title="View Project Three">
-    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project Three live demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project Three live demo" />
   </a>
 </p>
 
@@ -183,12 +183,12 @@ Short description of the project, the problem it solves, and who it helps.
   <tr>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://github-readme-stats.vercel.app/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=2563EB&icon_color=2563EB&text_color=94a3b8" alt="SmartJk123 GitHub statistics" />
+        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8" alt="SmartJk123 GitHub statistics" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://streak-stats.demolab.com/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=ffffff&dates=94a3b8" alt="SmartJk123 GitHub contribution streak" />
+        <img src="https://streak-stats.demolab.com/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8" alt="SmartJk123 GitHub contribution streak" />
       </a>
     </td>
   </tr>
@@ -196,7 +196,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 <p align="center">
   <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartJk123&bg_color=0f172a&color=94a3b8&title_color=2563EB&line=2563EB&point=ffffff&area=true&area_color=2563EB&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="SmartJk123 recent GitHub contribution activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartJk123&bg_color=0f172a&color=94a3b8&title_color=4F46E5&line=4F46E5&point=ffffff&area=true&area_color=4F46E5&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="SmartJk123 recent GitHub contribution activity" />
   </a>
 </p>
 
@@ -242,9 +242,9 @@ Short description of the project, the problem it solves, and who it helps.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SmartJk123&color=2563EB&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SmartJk123&color=4F46E5&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:4857E3,100:4169E1&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
 </p>
