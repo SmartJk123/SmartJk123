@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,50:FFD700,100:F59E0B&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=1F2937&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
 </p>
 
 <!-- Dynamic Capabilities -->
@@ -32,14 +32,21 @@
 
 <h2 align="center">About Me</h2>
 
-I'm a full-stack software engineer who enjoys turning ideas into reliable, useful software. I care about clean architecture, clear communication, and shipping products that solve real problems.
+<p align="center"><strong>Joy Kamau · Software Developer &amp; Designer</strong></p>
 
-<!-- TODO: personal details below are placeholders, replace with your real story -->
-My workflow centers on understanding the problem first, then building the simplest system that delivers value. I work across frontend and backend, and I am always learning better ways to design, build, and maintain software.
+I am a software developer with a strong background as a Computer Science Software Developer and a Bachelor's degree in Business Information Technology. I thrive at the intersection of design and engineering, where logical structure meets fluid component architecture. With a natural knack for structuring reusable components and optimizing rendering performance, I bring a well-rounded perspective shaped by both modern frontend skills and strategic business insight. Whether debugging application state, resolving tricky rendering issues, or systematically implementing strict UI mockups, I am consistently driven by an unwavering attention to detail, clean coding, and a total commitment to maintaining high performance and scalability.
 
-I take ownership of what I build, from the first commit to production. I review thoughtfully, communicate tradeoffs clearly, and keep learning in public.
+---
 
-I'm interested in teams and projects that value thoughtful engineering, good collaboration, and long-term quality over rushed solutions.
+<h2 align="center">Computer Skills</h2>
+
+| Category | Skills |
+|:---------|:-------|
+| **Frontend** | React, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Backend &amp; APIs** | Node.js, Express, Python, Django, REST APIs |
+| **Databases** | PostgreSQL, Supabase, MySQL, MongoDB |
+| **Design &amp; Tools** | Figma, Git, GitHub, Docker |
+| **Business &amp; Analysis** | Business Information Technology, strategic business insight |
 
 ---
 
@@ -246,5 +253,5 @@ Short description of the project, the problem it solves, and who it helps.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,50:FFD700,100:F59E0B&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=1F2937&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
 </p>
