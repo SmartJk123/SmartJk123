@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,50:FFD700,100:F59E0B&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=1F2937&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
 </p>
 
 <!-- Dynamic Capabilities -->
@@ -195,7 +195,7 @@ Short description of the project, the problem it solves, and who it helps.
     </td>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://streak-stats.demolab.com/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8" alt="SmartJk123 GitHub contribution streak" />
+        <img src="https://streak-stats.demolab.com/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8&v=20260814" alt="SmartJk123 GitHub contribution streak" />
       </a>
     </td>
   </tr>
@@ -203,7 +203,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 <p align="center">
   <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartJk123&bg_color=0f172a&color=94a3b8&title_color=4F46E5&line=4F46E5&point=ffffff&area=true&area_color=4F46E5&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="SmartJk123 recent GitHub contribution activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartJk123&bg_color=0f172a&color=94a3b8&title_color=4F46E5&line=FFD700&point=FFD700&area=true&area_color=FFD700&hide_border=true&grid=false&days=30&custom_title=Recent%20Contribution%20Activity" alt="SmartJk123 recent GitHub contribution activity" />
   </a>
 </p>
 
@@ -253,5 +253,5 @@ Short description of the project, the problem it solves, and who it helps.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,50:FFD700,100:F59E0B&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=1F2937&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
 </p>
