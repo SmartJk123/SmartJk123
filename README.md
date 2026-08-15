@@ -26,6 +26,12 @@
   <a href="mailto:joykamau123@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
+  <a href="https://wa.me/254710580320" title="Chat on WhatsApp - 0710 580 320">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp - 0710 580 320" />
+  </a>
+  <a href="tel:+254710580320" title="Call - 0710 580 320">
+    <img src="https://img.shields.io/badge/📞_Call-00BFA5?style=for-the-badge&logoColor=white" alt="Call - 0710 580 320" />
+  </a>
 </p>
 
 ---
@@ -270,6 +276,12 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
   </a>
   <a href="mailto:joykamau123@gmail.com" title="Start a conversation by email">
     <img src="https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" />
+  </a>
+  <a href="https://wa.me/254710580320" title="Chat on WhatsApp - 0710 580 320">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp - 0710 580 320" />
+  </a>
+  <a href="tel:+254710580320" title="Call - 0710 580 320">
+    <img src="https://img.shields.io/badge/📞_Call-00BFA5?style=for-the-badge&logoColor=white" alt="Call - 0710 580 320" />
   </a>
 </p>
 
