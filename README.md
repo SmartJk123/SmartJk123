@@ -161,7 +161,7 @@ A production residential management system for Global Smartspaces Residentials t
 **Built with:** React · Vite · Tailwind CSS · Supabase (PostgreSQL, Auth, Storage, Edge Functions) · Stripe · React Query
 
 <p align="right">
-  <a href="https://globalsmartspacesresidential.base44.app" title="View Smart Residential Management System live demo">
+  <a href="https://gs-pms.vercel.app/" title="View Smart Residential Management System live demo">
     <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="View Smart Residential Management System live demo" />
   </a>
 </p>
