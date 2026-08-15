@@ -195,7 +195,7 @@ Short description of the project, the problem it solves, and who it helps.
     </td>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://streak-stats.demolab.com/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8&v=20260814" alt="SmartJk123 GitHub contribution streak" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8&v=20260815" alt="SmartJk123 GitHub contribution streak" />
       </a>
     </td>
   </tr>
@@ -211,13 +211,45 @@ Short description of the project, the problem it solves, and who it helps.
 
 <h2 align="center">Credibility</h2>
 
-| Area | Evidence |
-|:-----|:---------|
-| **Professional Experience** | Placeholder: describe the client work or roles you have delivered. |
-| **Technical Validation** | Placeholder: mention testing coverage, load test results, or shipped products. |
-| **Security & Reliability** | Placeholder: list auth, validation, rate limiting, or reliability patterns you use. |
-| **Education** | Placeholder: degree, school, and year. |
-| **Certifications** | Placeholder: list certifications and course completions. |
+**Professional Experience**
+- Developed a Residential Management System and a full-stack E-commerce system with an ERP module, called **Smartspace**.
+- Developed a Property Management System for **Prince Street Capital Company**.
+
+**Technical Validation**
+- Shipped production platforms: the Smart Residential Management System (role-based portals, automated invoicing & payments) and Tunebox Photobooth (Django, automated bookings, S3-backed media) — both live and in use.
+
+**Security & Reliability**
+- Role-based access control, Stripe online payments, and a bank webhook review queue that verifies events before any accounting record posts.
+- Audit trail, user and profile security, plus a documented backup and recovery runbook.
+
+**Education**
+
+**Bachelor of Business Information Technology** — KCA University, Nairobi, Kenya · Jan 2022 – Dec 2025 · Second Upper Class Honours
+
+*Core areas — Information Technology:* software development, UX design, machine learning, generative AI, human-computer interaction, database management, artificial intelligence, network systems, blockchain technology, cybersecurity.
+
+*Core areas — Business Management:* financial accounting, IS & auditing systems, business intelligence, organization management, procurement, marketing, Microsoft Office, decentralized finance, information systems.
+
+**Certifications & Achievements**
+- Bachelor of Business Information Technology — Second Upper Class Honours
+- Microsoft IT Support Specialist Certificate
+- IBM Enterprise Design Thinking Practitioner
+- Cisco Cybersecurity Specialist
+- The Core Bitcoin Diploma
+- ALX AI Career Essentials Certificate
+- Developed a Residential Management System and a full-stack E-commerce system with an ERP called Smartspace
+- Developed a Property Management System for Prince Street Capital Company
+
+**References**
+- **Joyce Nyamweya** — Property Director, Prince Street Capital · joyce@capitalprincestreet.com
+- **Norah Nyaboke** — Director, Tunebox Photobooth · nyabokehani@gmail.com
+- **Joseph Nyamosi** — Senior Software Developer, UN Ministry of Defense · josenyamos@gmail.com
+- **Joel Kuria** — Project Director, Kasha Global Inc · joel.kuria@kasha.co
+- **Roggers Abongó** — Executive Director, KCA Foundation, KCA University · 0720245627 / rabongo@kcau.ac.ke
+
+**Art & Design Skills**
+
+Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechanical drawing)
 
 ---
 
