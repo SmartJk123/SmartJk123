@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" />
+  <img src="assets/wave.svg" alt="Joy Kamau, Full-Stack Software Engineer building reliable digital solutions" width="100%" />
 </p>
 
 <!-- Dynamic Capabilities -->
@@ -240,13 +240,6 @@ Short description of the project, the problem it solves, and who it helps.
 - Developed a Residential Management System and a full-stack E-commerce system with an ERP called Smartspace
 - Developed a Property Management System for Prince Street Capital Company
 
-**References**
-- **Joyce Nyamweya** — Property Director, Prince Street Capital · joyce@capitalprincestreet.com
-- **Norah Nyaboke** — Director, Tunebox Photobooth · nyabokehani@gmail.com
-- **Joseph Nyamosi** — Senior Software Developer, UN Ministry of Defense · josenyamos@gmail.com
-- **Joel Kuria** — Project Director, Kasha Global Inc · joel.kuria@kasha.co
-- **Roggers Abongó** — Executive Director, KCA Foundation, KCA University · 0720245627 / rabongo@kcau.ac.ke
-
 **Art & Design Skills**
 
 Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechanical drawing)
@@ -285,5 +278,5 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=230&section=header&text=Joy%20Kamau&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Reliable%20Digital%20Solutions&descAlignY=58&descSize=20" alt="" />
+  <img src="assets/wave.svg" alt="" width="100%" />
 </p>
