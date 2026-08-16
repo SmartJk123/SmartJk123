@@ -14,9 +14,6 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://github.com/SmartJk123" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartJk123 on GitHub" />
-  </a>
   <a href="https://ke.linkedin.com/in/joy-kamau-945725221" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Joy on LinkedIn" />
   </a>
@@ -48,7 +45,7 @@ I am a software developer with a strong background as a Computer Science Softwar
 
 | Category | Skills |
 |:---------|:-------|
-| **Frontend** | React, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Frontend** | React, Vue, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
 | **Backend &amp; APIs** | Node.js, Express, Python, Django, REST APIs |
 | **Databases** | PostgreSQL, Supabase, MySQL, MongoDB |
 | **Design &amp; Tools** | Figma, Git, GitHub, Docker |
@@ -112,14 +109,14 @@ Short description of the product or platform you are currently building, who it 
 <!-- Sample stack only: replace with the tools you actually use -->
 <p align="center">
   <a href="https://skillicons.dev" title="View Skill Icons">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nodejs,express,python,postgres,mysql,mongodb,docker,git,github,figma,html,css&perline=8" alt="Technology stack" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,tailwind,nodejs,express,python,postgres,mysql,mongodb,supabase,docker,git,github,figma,html,css&perline=8" alt="Technology stack" />
   </a>
 </p>
 
 ### Stack Breakdown
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+- **Frontend:** React, TypeScript, JavaScript, Angular, Tailwind CSS, HTML, CSS
 - **Backend & APIs:** Node.js, Express, Python, REST APIs
-- **Database:** PostgreSQL, MySQL, MongoDB
+- **Database:** PostgreSQL, Supabase, MySQL, MongoDB
 - **DevOps & Tools:** Git, GitHub, Docker, Figma
 
 ---
@@ -268,9 +265,6 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 </p>
 
 <p align="center">
-  <a href="https://github.com/SmartJk123" title="Connect on GitHub">
-    <img src="https://img.shields.io/badge/Connect_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect with SmartJk123 on GitHub" />
-  </a>
   <a href="https://ke.linkedin.com/in/joy-kamau-945725221" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Joy on LinkedIn" />
   </a>
