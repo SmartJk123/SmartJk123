@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center" style="color:#4F46E5">About Me</h2>
 
 <p align="center"><strong>Joy Kamau · Software Developer &amp; Designer</strong></p>
 
@@ -41,19 +41,19 @@ I am a software developer with a strong background as a Computer Science Softwar
 
 ---
 
-<h2 align="center">Computer Skills</h2>
+<h2 align="center" style="color:#4F46E5">Computer Skills</h2>
 
 | Category | Skills |
 |:---------|:-------|
 | **Frontend** | React, Vue, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
 | **Backend &amp; APIs** | Node.js, Express, Python, Django, REST APIs |
 | **Databases** | PostgreSQL, Supabase, MySQL, MongoDB |
-| **Design &amp; Tools** | Figma, Git, GitHub, Docker |
+| **Design &amp; Tools** | Figma, Git, GitHub, Docker, AWS, Google Cloud, Oracle |
 | **Business &amp; Analysis** | Business Information Technology, strategic business insight |
 
 ---
 
-<h2 align="center">What I Do</h2>
+<h2 align="center" style="color:#4F46E5">What I Do</h2>
 
 I design and build software that turns ideas, business processes, and operational challenges into reliable digital systems.
 
@@ -68,17 +68,24 @@ I design and build software that turns ideas, business processes, and operationa
 
 ---
 
-<h2 align="center">Now Building</h2>
+<h2 align="center" style="color:#4F46E5">Now Building</h2>
 
-### Project Name - Working Title
+### Global Smartspaces
 
-Short description of the product or platform you are currently building, who it helps, and why it matters.
+Building **Global Smartspaces** — a suite of technology-driven business solutions covering:
 
-**Current focus:** Focus area one · Focus area two · Focus area three
+- **RMS / PMS** — residential and property management systems
+- **Fleet management** — vehicle and operations tracking
+- **E-commerce** — online stores and sales platforms
+- **SaaS services** — subscription software for businesses
+
+The mission is to build all types of business solutions using technology.
+
+**Current focus:** RMS/PMS · Fleet management · E-commerce · SaaS
 
 ---
 
-<h2 align="center">Open To</h2>
+<h2 align="center" style="color:#4F46E5">Open To</h2>
 
 - **Full-time and graduate engineering opportunities** where I can contribute across frontend, backend, full-stack, and product engineering.
 - **Freelance projects** helping businesses turn operational challenges and product ideas into reliable digital systems.
@@ -89,7 +96,7 @@ Short description of the product or platform you are currently building, who it 
 
 ---
 
-<h2 align="center">Design Patterns & Engineering Principles</h2>
+<h2 align="center" style="color:#4F46E5">Design Patterns & Engineering Principles</h2>
 
 | Principle | How I Apply It |
 |:----------|:---------------|
@@ -104,12 +111,12 @@ Short description of the product or platform you are currently building, who it 
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center" style="color:#4F46E5">Tech Stack</h2>
 
 <!-- Sample stack only: replace with the tools you actually use -->
 <p align="center">
   <a href="https://skillicons.dev" title="View Skill Icons">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,tailwind,nodejs,express,python,postgres,mysql,mongodb,supabase,docker,git,github,figma,html,css&perline=8" alt="Technology stack" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,tailwind,nodejs,express,python,postgres,mysql,mongodb,supabase,docker,aws,google,oracle,git,github,figma,html,css&perline=8" alt="Technology stack" />
   </a>
 </p>
 
@@ -117,11 +124,11 @@ Short description of the product or platform you are currently building, who it 
 - **Frontend:** React, TypeScript, JavaScript, Angular, Tailwind CSS, HTML, CSS
 - **Backend & APIs:** Node.js, Express, Python, REST APIs
 - **Database:** PostgreSQL, Supabase, MySQL, MongoDB
-- **DevOps & Tools:** Git, GitHub, Docker, Figma
+- **DevOps & Tools:** AWS, Google Cloud, Oracle, Docker, Git, GitHub, Figma
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center" style="color:#4F46E5">Featured Projects</h2>
 
 <!-- Projects are placeholders: replace with your real projects, links, and metrics -->
 
@@ -187,7 +194,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center" style="color:#4F46E5">GitHub Stats</h2>
 
 <table>
   <tr>
@@ -212,7 +219,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 ---
 
-<h2 align="center">Credibility</h2>
+<h2 align="center" style="color:#4F46E5">Credibility</h2>
 
 **Professional Experience**
 - Developed a Residential Management System and a full-stack E-commerce system with an ERP module, called **Smartspace**.
@@ -249,7 +256,7 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 
 ---
 
-<h2 align="center">Beyond Code</h2>
+<h2 align="center" style="color:#4F46E5">Beyond Code</h2>
 
 - I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
 - I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
@@ -258,7 +265,7 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 
 ---
 
-<h2 align="center">Let's Build Something</h2>
+<h2 align="center" style="color:#4F46E5">Let's Build Something</h2>
 
 <p align="center">
   <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
