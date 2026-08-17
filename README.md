@@ -206,7 +206,7 @@ Short description of the project, the problem it solves, and who it helps.
     </td>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&hide=commits" alt="SmartJk123 GitHub statistics" />
+        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&hide=commits,contribs&hide_rank=true" alt="SmartJk123 GitHub statistics" />
       </a>
     </td>
   </tr>
