@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center" style="color:#4F46E5">About Me</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/About_Me-4F46E5?style=for-the-badge" alt="About Me" /></h2>
 
 <p align="center"><strong>Joy Kamau · Software Developer &amp; Designer</strong></p>
 
@@ -41,19 +41,20 @@ I am a software developer with a strong background as a Computer Science Softwar
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Computer Skills</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Computer_Skills-4F46E5?style=for-the-badge" alt="Computer Skills" /></h2>
 
+<!-- Keep this list current: add every technology you use as you ship projects to GitHub. -->
 | Category | Skills |
 |:---------|:-------|
 | **Frontend** | React, Vue, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| **Backend &amp; APIs** | Node.js, Express, Python, Django, REST APIs |
+| **Backend &amp; APIs** | Node.js, Express, Python, Django, Java, Spring Boot, REST APIs |
 | **Databases** | PostgreSQL, Supabase, MySQL, MongoDB |
 | **Design &amp; Tools** | Figma, Git, GitHub, Docker, AWS, Google Cloud, Oracle |
 | **Business &amp; Analysis** | Business Information Technology, strategic business insight |
 
 ---
 
-<h2 align="center" style="color:#4F46E5">What I Do</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/What_I_Do-4F46E5?style=for-the-badge" alt="What I Do" /></h2>
 
 I design and build software that turns ideas, business processes, and operational challenges into reliable digital systems.
 
@@ -68,7 +69,7 @@ I design and build software that turns ideas, business processes, and operationa
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Now Building</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Now_Building-4F46E5?style=for-the-badge" alt="Now Building" /></h2>
 
 ### Global Smartspaces
 
@@ -85,7 +86,7 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Open To</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Open_To-4F46E5?style=for-the-badge" alt="Open To" /></h2>
 
 - **Full-time and graduate engineering opportunities** where I can contribute across frontend, backend, full-stack, and product engineering.
 - **Freelance projects** helping businesses turn operational challenges and product ideas into reliable digital systems.
@@ -96,7 +97,7 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Design Patterns & Engineering Principles</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Design_Patterns_%26_Engineering_Principles-4F46E5?style=for-the-badge" alt="Design Patterns & Engineering Principles" /></h2>
 
 | Principle | How I Apply It |
 |:----------|:---------------|
@@ -111,24 +112,24 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Tech Stack</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Tech_Stack-4F46E5?style=for-the-badge" alt="Tech Stack" /></h2>
 
 <!-- Sample stack only: replace with the tools you actually use -->
 <p align="center">
   <a href="https://skillicons.dev" title="View Skill Icons">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,tailwind,nodejs,express,python,postgres,mysql,mongodb,supabase,docker,aws,google,oracle,git,github,figma,html,css&perline=8" alt="Technology stack" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,tailwind,nodejs,express,python,java,spring,postgres,mysql,mongodb,supabase,docker,aws,google,oracle,git,github,figma,html,css&perline=8" alt="Technology stack" />
   </a>
 </p>
 
 ### Stack Breakdown
 - **Frontend:** React, TypeScript, JavaScript, Angular, Tailwind CSS, HTML, CSS
-- **Backend & APIs:** Node.js, Express, Python, REST APIs
+- **Backend & APIs:** Node.js, Express, Python, Java, Spring Boot, REST APIs
 - **Database:** PostgreSQL, Supabase, MySQL, MongoDB
 - **DevOps & Tools:** AWS, Google Cloud, Oracle, Docker, Git, GitHub, Figma
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Featured Projects</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Featured_Projects-4F46E5?style=for-the-badge" alt="Featured Projects" /></h2>
 
 <!-- Projects are placeholders: replace with your real projects, links, and metrics -->
 
@@ -194,7 +195,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 ---
 
-<h2 align="center" style="color:#4F46E5">GitHub Stats</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/GitHub_Stats-4F46E5?style=for-the-badge" alt="GitHub Stats" /></h2>
 
 <table>
   <tr>
@@ -219,7 +220,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Credibility</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Credibility-4F46E5?style=for-the-badge" alt="Credibility" /></h2>
 
 **Professional Experience**
 - Developed a Residential Management System and a full-stack E-commerce system with an ERP module, called **Smartspace**.
@@ -256,16 +257,17 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Beyond Code</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Beyond_Code-4F46E5?style=for-the-badge" alt="Beyond Code" /></h2>
 
 - I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
 - I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
 - I care about building tools that help people and businesses operate more effectively.
-- Outside engineering, I enjoy sports, music, nature, films, and series.
+- Outside engineering, I enjoy sports, music, nature, films, series, photography, and painting.
+- I also play guitar and love travel adventures — new places, new perspectives.
 
 ---
 
-<h2 align="center" style="color:#4F46E5">Let's Build Something</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/Let%27s_Build_Something-4F46E5?style=for-the-badge" alt="Let's Build Something" /></h2>
 
 <p align="center">
   <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
