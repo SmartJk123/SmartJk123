@@ -199,7 +199,6 @@ Short description of the project, the problem it solves, and who it helps.
 
 <table>
   <tr>
-    
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8&v=20260815" alt="SmartJk123 GitHub contribution streak" />
