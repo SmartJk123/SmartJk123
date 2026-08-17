@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/About_Me-4F46E5?style=for-the-badge" alt="About Me" /></h2>
+<h2 align="center"><img src="assets/titles/about-me.svg" alt="About Me" width="206" height="48" /></h2>
 
 <p align="center"><strong>Joy Kamau · Software Developer &amp; Designer</strong></p>
 
@@ -41,7 +41,7 @@ I am a software developer with a strong background as a Computer Science Softwar
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Computer_Skills-4F46E5?style=for-the-badge" alt="Computer Skills" /></h2>
+<h2 align="center"><img src="assets/titles/computer-skills.svg" alt="Computer Skills" width="296" height="48" /></h2>
 
 <!-- Keep this list current: add every technology you use as you ship projects to GitHub. -->
 | Category | Skills |
@@ -54,7 +54,7 @@ I am a software developer with a strong background as a Computer Science Softwar
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/What_I_Do-4F46E5?style=for-the-badge" alt="What I Do" /></h2>
+<h2 align="center"><img src="assets/titles/what-i-do.svg" alt="What I Do" width="209" height="48" /></h2>
 
 I design and build software that turns ideas, business processes, and operational challenges into reliable digital systems.
 
@@ -69,7 +69,7 @@ I design and build software that turns ideas, business processes, and operationa
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Now_Building-4F46E5?style=for-the-badge" alt="Now Building" /></h2>
+<h2 align="center"><img src="assets/titles/now-building.svg" alt="Now Building" width="264" height="48" /></h2>
 
 ### Global Smartspaces
 
@@ -86,7 +86,7 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Open_To-4F46E5?style=for-the-badge" alt="Open To" /></h2>
+<h2 align="center"><img src="assets/titles/open-to.svg" alt="Open To" width="182" height="48" /></h2>
 
 - **Full-time and graduate engineering opportunities** where I can contribute across frontend, backend, full-stack, and product engineering.
 - **Freelance projects** helping businesses turn operational challenges and product ideas into reliable digital systems.
@@ -97,7 +97,7 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Design_Patterns_%26_Engineering_Principles-4F46E5?style=for-the-badge" alt="Design Patterns & Engineering Principles" /></h2>
+<h2 align="center"><img src="assets/titles/design-patterns.svg" alt="Design Patterns & Engineering Principles" width="696" height="48" /></h2>
 
 | Principle | How I Apply It |
 |:----------|:---------------|
@@ -112,7 +112,7 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Tech_Stack-4F46E5?style=for-the-badge" alt="Tech Stack" /></h2>
+<h2 align="center"><img src="assets/titles/tech-stack.svg" alt="Tech Stack" width="217" height="48" /></h2>
 
 <!-- Sample stack only: replace with the tools you actually use -->
 <p align="center">
@@ -129,7 +129,7 @@ The mission is to build all types of business solutions using technology.
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Featured_Projects-4F46E5?style=for-the-badge" alt="Featured Projects" /></h2>
+<h2 align="center"><img src="assets/titles/featured-projects.svg" alt="Featured Projects" width="324" height="48" /></h2>
 
 <!-- Projects are placeholders: replace with your real projects, links, and metrics -->
 
@@ -195,18 +195,19 @@ Short description of the project, the problem it solves, and who it helps.
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/GitHub_Stats-4F46E5?style=for-the-badge" alt="GitHub Stats" /></h2>
+<h2 align="center"><img src="assets/titles/github-stats.svg" alt="GitHub Stats" width="250" height="48" /></h2>
 
 <table>
   <tr>
+    
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8" alt="SmartJk123 GitHub statistics" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8&v=20260815" alt="SmartJk123 GitHub contribution streak" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SmartJk123&theme=dark&hide_border=true&background=0f172a&ring=4F46E5&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F46E5&sideLabels=ffffff&dates=94a3b8&v=20260815" alt="SmartJk123 GitHub contribution streak" />
+        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&hide=commits" alt="SmartJk123 GitHub statistics" />
       </a>
     </td>
   </tr>
@@ -220,7 +221,7 @@ Short description of the project, the problem it solves, and who it helps.
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Credibility-4F46E5?style=for-the-badge" alt="Credibility" /></h2>
+<h2 align="center"><img src="assets/titles/credibility.svg" alt="Credibility" width="212" height="48" /></h2>
 
 **Professional Experience**
 - Developed a Residential Management System and a full-stack E-commerce system with an ERP module, called **Smartspace**.
@@ -257,7 +258,7 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Beyond_Code-4F46E5?style=for-the-badge" alt="Beyond Code" /></h2>
+<h2 align="center"><img src="assets/titles/beyond-code.svg" alt="Beyond Code" width="258" height="48" /></h2>
 
 - I support fellow developers through practical advice, knowledge sharing, and occasional mentorship.
 - I value empathy, transparency, openness, and emotional intelligence when collaborating with others.
@@ -267,7 +268,7 @@ Photoshop · Procreate · CAD · Painting · Drawing · Interior design (mechani
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/Let%27s_Build_Something-4F46E5?style=for-the-badge" alt="Let's Build Something" /></h2>
+<h2 align="center"><img src="assets/titles/lets-build.svg" alt="Let's Build Something" width="395" height="48" /></h2>
 
 <p align="center">
   <strong>Have a role, business challenge, or product idea? Let's discuss how I can contribute.</strong>
