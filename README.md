@@ -175,7 +175,7 @@ A production residential management system for Global Smartspaces Residentials t
   </a>
 </p>
 
-### SmartERP - Open-Source ERP Platform for East African Businesses
+### SmartERP, Best global opensource infrastructure for all global businesses
 
 <p align="center">
   <img src="assets/smarterp.png" alt="SmartERP ERPNext dashboard preview" width="100%" style="border: 2px dashed #818CF8; outline: 2px solid #312E81; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
