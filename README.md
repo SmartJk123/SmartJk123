@@ -131,8 +131,6 @@ The mission is to build all types of business solutions using technology.
 
 <h2 align="center"><img src="assets/titles/featured-projects.svg" alt="Featured Projects" width="324" height="48" /></h2>
 
-<!-- Projects are placeholders: replace with your real projects, links, and metrics -->
-
 ### Tunebox Photobooth System - Photo Booth Business Platform
 
 <p align="center">
@@ -177,19 +175,24 @@ A production residential management system for Global Smartspaces Residentials t
   </a>
 </p>
 
-### Project Three - What It Does
+### SmartERP - Open-Source ERP Platform for East African Businesses
 
-Short description of the project, the problem it solves, and who it helps.
+<p align="center">
+  <img src="assets/smarterp.png" alt="SmartERP ERPNext dashboard preview" width="100%" style="border: 2px dashed #818CF8; outline: 2px solid #312E81; outline-offset: 5px; border-radius: 12px; padding: 6px; background-color: #0f172a;" />
+</p>
 
-- Bullet point on a key feature or technical decision.
-- Bullet point on a measurable result, such as performance, tests, or users.
-- Bullet point on what you learned or did differently.
-
-**Built with:** Python · FastAPI · React · PostgreSQL
+<p>An open-source ERP platform for Kenyan and East African businesses, built on ERPNext and the Frappe framework (v15) and bundling the full ERP module suite with HR, payments, analytics, M-Pesa, and property management in one system.</p>
+<ul>
+  <li>Packaged the full ERPNext v15 suite (Accounting, Stock, Buying, Selling, Manufacturing, CRM, Projects, POS) with Frappe HR, Payments, Insights analytics, and Lending as versioned submodules in a single bench repository.</li>
+  <li>Integrated Safaricom M-Pesa through the Daraja API: STK Push, C2B and B2C payments, payment gateway setup, and automated invoice reconciliation.</li>
+  <li>Added Kenya localization with KRA eTims e-invoicing and tax, currency, and reporting configuration for East African businesses.</li>
+  <li>Documented production deployment on any VPS (bench, nginx, supervisor, HTTPS, scheduled backups) plus Docker and local development options.</li>
+</ul>
+<p><strong>Built with:</strong> ERPNext · Frappe · Frappe HR · Insights · M-Pesa (Daraja) · PropMS · Python · MariaDB · Redis · Docker</p>
 
 <p align="right">
-  <a href="#" title="View Project Three">
-    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project Three live demo" />
+  <a href="https://github.com/SmartJk123/ERP" title="View SmartERP repository">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartERP repository" />
   </a>
 </p>
 
@@ -206,7 +209,7 @@ Short description of the project, the problem it solves, and who it helps.
     </td>
     <td>
       <a href="https://github.com/SmartJk123" title="View SmartJk123 on GitHub">
-        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&hide=commits,contribs&hide_rank=true" alt="SmartJk123 GitHub statistics" />
+        <img src="https://github-readme-stats.shion.dev/api?username=SmartJk123&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&hide_rank=true&v=20260818" alt="SmartJk123 GitHub statistics" />
       </a>
     </td>
   </tr>
